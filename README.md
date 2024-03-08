@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/fbz7IrfN9l7O92urnepX5.jpeg" alt="Image" style="display: block; margin: auto;" />
+<img src="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/assets/107075016/55b3c4a5-7259-411d-b78b-dea08651a2f7" alt="Image" style="display: block; margin: auto;" />
 </p>
 
 <h3 align="center">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! v1.0 ✨✨✨</h3>
