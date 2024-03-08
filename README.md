@@ -27,8 +27,6 @@ Tips:
 #### ⭐什么是Stable Diffusion WebUI 绘世启动器 ❓
  - 指南使用的Stable Diffusion WebUI启动器是B站大佬(BiliBili) <a href="https://space.bilibili.com/12566101" style="background-color: #3498db; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">🔗秋叶aaaki</a> 的作品，其启动器整合了一键启动、配置选项、疑难解答、模型扩展管理等等诸多功能。
 
-   ![image](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/assets/107075016/7312e3e9-84ad-4aa5-8eac-e31bb088d0f8)
-
 #### ⭐这不是一个整合包 ❌
  - 这个指南需要自行安装模型、Lora、扩展等。
 
