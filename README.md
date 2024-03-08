@@ -75,17 +75,36 @@ Tips:
  
  - 9、安装过程中会出现 `💡正在配置组件` 的cmd窗口，不用管，等待它自动完成，完成后点击完成即可。
 
+ - 10、打开 https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main 网站，找到v1-5-pruned-emaonly.safetensors并下载，下载完后把模型文件放到 根目录\models\Stable-diffusion里。
+
+ - 11、或直接在绘世启动器点击 [一键启动] ，在启动器里自动下载v1-5-pruned-emaonly.safetensors。(我这里启动器下载的速度比较慢，我就用第10步的方法下载的，反正两种方法哪个快用哪个。)
+
+
 #### ⭐运行WebUI
 
- - 1、再次打开 `📦绘世启动器@秋葉aaaki.exe` ，点击左边菜单栏中的 [一键启动] 里右下角的 [一键启动] 。
+ - 1、打开 `📦绘世启动器@秋葉aaaki.exe` ，点击左边菜单栏中的 [一键启动] 里右下角的 [一键启动] 。
 
- - 2、等待一会儿后( 第一次启动会慢一些。 )，浏览器会自动弹出网址为 `http://127.0.0.1:7860/` 的网站，这就是WebUI。
+ - 2、等待一会儿后，浏览器会自动弹出网址为 `http://127.0.0.1:7860/` 的网站，这就是WebUI。
 
-#### ⭐安装扩展
+#### ⭐安装汉化
 
- - 1、安装扩展有三种方式，第一种是在启动器的 [版本管理] - [安装新扩展] 里，搜索需要的扩展，安装后重新启动WebUI就可以了。
+ - 1、在了解如何安装扩展前，先安装zh-CN中文汉化包扩展，以便更好的理解WebUI的各项功能。
 
- - 2、第二种是在WebUI的右上角，
+ - 2、先从屏幕中上方的菜单栏中找到Extensions，紧接着找到Available。
+
+ - 3、然后依次点击橙色按钮Load From，再把Hide extensions with tags下面选项中前面的点都点掉。
+
+ - 4、然后在下面的搜索栏中输入chinese，回车。
+
+ - 5、找到zh_CN Localization，点击后面的Install。（注意每个汉化扩展名字很像，不要下错了。）
+
+ - 6、当搜索栏下面出现次字样 Installed into D:\WebUI\extensions\stable-diffusion-webui-localization-zh_CN. Use Installed tab to restart.，就证明安装完成了。
+
+ - 7、然后找到Installed，在里面找到Apply and restart UI，点击重启WebUI。
+
+ - 8、重启后，再找到菜单栏中的settings，找到User interface，找到Localization  (requires Reload UI)选项，把None改成zh_CN。
+
+ - 9、这样我们就把WebUI系统改成中文了，然后点击Apply Settings，等一会儿后点右边的Reload UI就完成汉化了。
 
 #### ⭐安装模型
 
