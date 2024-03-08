@@ -22,6 +22,8 @@ Tips:
 <img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/TtH4XnIe27grMD1DT-aYf.png" alt="Image" width="70%" height="70%" />
 </p>
 
+---
+
 #### 什么是Stable Diffusion WebUI ❓
  - **Stable Diffusion WebUI**是 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" style="background-color: #3498db; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">🔗AUTOMATIC1111</a> 根据Stable Diffusion制作的网页图形界面，其易用性大大的降低了Stable Diffusion的使用门槛。
 
