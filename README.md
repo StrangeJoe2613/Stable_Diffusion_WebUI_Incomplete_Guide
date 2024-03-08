@@ -22,14 +22,14 @@ Tips:
 <img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/TtH4XnIe27grMD1DT-aYf.png" alt="Image" width="70%" height="70%" />
 </p>
 
-### 什么是Stable Diffusion WebUI ❓
+##### 什么是Stable Diffusion WebUI ❓
  - **Stable Diffusion WebUI**是 <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" style="background-color: #3498db; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">🔗AUTOMATIC1111</a> 根据Stable Diffusion制作的网页图形界面，其易用性大大的降低了Stable Diffusion的使用门槛。
 
-### 什么是Stable Diffusion WebUI 绘世启动器 ❓
+##### 什么是Stable Diffusion WebUI 绘世启动器 ❓
  - 指南使用的**Stable Diffusion WebUI**启动器是B站大佬(BiliBili) <a href="https://space.bilibili.com/12566101" style="background-color: #3498db; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">🔗秋叶aaaki</a> 的作品，其启动器整合了一键启动、配置选项、疑难解答、模型扩展管理等等诸多功能。
  - <img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/hnwa22RnGFDoTetpsr_oe.png" alt="Image" width="50%" height="50%">
 
-### 这不是一个整合包 ❌
+##### 这不是一个整合包 ❌
  - 这个指南需要自行安装模型、Lora、扩展等。
 
 ---
