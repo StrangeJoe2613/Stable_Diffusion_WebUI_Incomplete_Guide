@@ -1,10 +1,6 @@
----
-language:
-- zh
-tags:
-- stable diffusion webui
----
-<h1 style="text-align: center;"> 🚧🚧🚧 施工中 🚧🚧🚧 </h1>
+<h1 align="center">
+  <strong>🚧🚧🚧 施工中 🚧🚧🚧</strong>
+</h1>
 
 ---
 
@@ -14,7 +10,7 @@ tags:
 </p>
 
 <!-- 大标题 -->
-<h1 style="text-align: center;">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! ✨✨✨</h1>
+<h2 align="center">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! ✨✨✨</h2>
 
 <!-- 大标题下面的内容 -->
 <p align="center">本指南只是用来记录自己安装使用Stable Diffusion WebUI的过程<br>
