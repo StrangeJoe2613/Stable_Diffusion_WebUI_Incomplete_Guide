@@ -34,11 +34,12 @@ Tips:
 
 ---
 
+
 # 📦开始
 
 - ### 部署绘世启动器 & WebUI
 
-    - 1、点击<a href="https://huggingface.co/StrangeJoe/Stable_Diffusion_WebUI_Incomplete_Guide/resolve/main/%E7%BB%98%E4%B8%96%E5%90%AF%E5%8A%A8%E5%99%A8%40%E7%A7%8B%E8%91%89aaaki.rar?download=true" style="background-color: #2CDC2C; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">⬇️Download</a> 下载 绘世启动器。 
+    - 1、点击<a href="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/raw/main/%E7%BB%98%E4%B8%96%E5%90%AF%E5%8A%A8%E5%99%A8@%E7%A7%8B%E8%91%89aaaki.rar" style="background-color: #2CDC2C; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">⬇️Download</a> 下载 绘世启动器。 
 
     - 2、下载后解压压缩文件 `📚绘世启动器@秋葉aaaki.rar` 。
  
