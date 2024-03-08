@@ -37,7 +37,7 @@ Tips:
 
 ### 📦开始
 
-- #### 部署绘世启动器 & WebUI
+- #### 部署绘世启动器
 
  - 1、点击<a href="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/raw/main/%E7%BB%98%E4%B8%96%E5%90%AF%E5%8A%A8%E5%99%A8@%E7%A7%8B%E8%91%89aaaki.rar" style="background-color: #2CDC2C; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">⬇️Download</a> 下载 绘世启动器。 
 
@@ -76,3 +76,7 @@ Tips:
  - 8、安装过程中会出现 `💡你确定要开始安装吗？` 的提示，点是继续下一步。
  
  - 9、安装过程中会出现 `💡正在配置组件` 的cmd窗口，不用管，等待它自动完成，完成后它会自动关闭窗口。
+
+- #### 运行WebUI
+
+ - 1、
