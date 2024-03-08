@@ -2,7 +2,7 @@
 <img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/fbz7IrfN9l7O92urnepX5.jpeg" alt="Image" style="display: block; margin: auto;" />
 </p>
 
-<h3 align="center">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! ✨✨✨</h3>
+<h3 align="center">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! v1.0 ✨✨✨</h3>
 
 <p align="center">本指南只是用来记录自己安装使用Stable Diffusion WebUI的过程<br>
 以及学习Martdown和Html的语法与实践</p>
