@@ -118,9 +118,9 @@ Tips:
 
  - 1、我们刚刚下载了一个叫v1-5-pruned-emaonly.safetensors的模型，这个是stable diffusion的官方模型，按照我的部署方法，不安装这个模型，绘世启动器就无法启动WebUI，不过想必光用这个模型是没意思的。
 
- - 2、认识模型网站https://civitai.com/，几乎所有的模型都可以在这里找到，可以在里面挑选一个自己喜欢的模型。
+ - 2、认识模型网站https://civitai.com/ ,几乎所有的模型都可以在这里找到，可以在里面挑选一个自己喜欢的模型。
 
- - 3、这里我们选
+ - 3、这里我们选https://civitai.com/models/43331/majicmix-realistic ,这个模型majicMIX realistic 麦橘写实。点击右边的Download，然后把下载的模型文件放到根目录\models\Stable-diffusion里。
 
 #### ⭐关键词
 
