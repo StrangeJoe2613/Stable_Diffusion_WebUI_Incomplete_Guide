@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/assets/107075016/55b3c4a5-7259-411d-b78b-dea08651a2f7" alt="Image" style="display: block; margin: auto;" />
+<img src="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/assets/107075016/028d6f66-2d74-43a7-94bd-e2fc291dfaff" alt="Image" style="display: block; margin: auto;" />
 </p>
 
 <h3 align="center">✨✨✨ Stable Diffusion WebUI - 使用不完全指南 ! v1.0 ✨✨✨</h3>
