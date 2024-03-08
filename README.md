@@ -9,7 +9,7 @@
 
 <div align="center">
   
-| [简体中文](https://huggingface.co/StrangeJoe/Stable_Diffusion_WebUI_Incomplete_Guide) | [英文](https://huggingface.co/StrangeJoe/Stable_Diffusion_WebUI_Incomplete_Guide/blob/main/README_enUS.md) | [变更日志](https://huggingface.co/StrangeJoe/Stable_Diffusion_WebUI_Incomplete_Guide/blob/main/Changelog.md) |
+| [简体中文](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide) | [英文](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/blob/main/README.en_US.md) | [变更日志]() |
 </div>
 
 <p align="center">
@@ -18,9 +18,7 @@ Tips:
 <a style="background-color: #2CDC2C; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">⬇️下载</a>
 </p>
 
-<p align="center">
-<img src="https://cdn-uploads.huggingface.co/production/uploads/65ea1c7c88cb0da4669a18bf/TtH4XnIe27grMD1DT-aYf.png" alt="Image" width="70%" height="70%" />
-</p>
+![TtH4XnIe27grMD1DT-aYf](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/assets/107075016/869afb2f-8cbb-4a32-b8fc-be449aa50225)
 
 ---
 
