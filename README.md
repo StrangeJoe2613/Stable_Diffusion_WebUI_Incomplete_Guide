@@ -37,7 +37,7 @@ Tips:
 
 ### 📦开始
 
-- #### 部署绘世启动器
+#### ⭐部署绘世启动器
 
  - 1、点击<a href="https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/raw/main/%E7%BB%98%E4%B8%96%E5%90%AF%E5%8A%A8%E5%99%A8@%E7%A7%8B%E8%91%89aaaki.rar" style="background-color: #2CDC2C; color: #ffffff; padding: 2px 6px; text-decoration: none; border-radius: 4px;">⬇️Download</a> 下载 绘世启动器。 
 
@@ -67,9 +67,9 @@ Tips:
          
        - ✅安装 Visual C++ 运行库
          
-     - 🔳安装 PyTorch
+     - ✅安装 PyTorch
        
-       - 🔳选择版本：无
+       - ✅选择版本：Torch 2.2.0(CUDA 12.1) + xFormers 0.0.24
          
      - ✅使用国内镜像
        
@@ -77,6 +77,44 @@ Tips:
  
  - 9、安装过程中会出现 `💡正在配置组件` 的cmd窗口，不用管，等待它自动完成，完成后它会自动关闭窗口。
 
-- #### 运行WebUI
+#### ⭐运行WebUI
+
+ - 1、再次打开 `绘世启动器@秋葉aaaki` ，点击左边菜单栏中的 [一键启动] 里右下角的 [一键启动] 。
+
+ - 2、等待一会儿后，浏览器中出现网址为 `http://127.0.0.1:7860/` 的网站，这就是WebUI。
+
+ - 3、WebUI的具体使用教程，需要自行去查询。
+
+#### ⭐安装扩展
 
  - 1、
+
+#### ⭐安装模型
+
+ - 1、
+
+#### ⭐关键词
+
+ - 1、
+
+#### ⭐尝试生成一张图
+
+ - 1、
+
+#### ⭐使用Lora
+
+ - 1、
+
+#### ⭐使用超网格
+
+ - 1、
+
+#### ⭐尝试制作一个视频
+
+ - 1、
+
+#### ⭐训练Lora
+
+ - 1、
+
+#### ⭐
