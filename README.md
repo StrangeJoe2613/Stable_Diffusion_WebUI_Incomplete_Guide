@@ -75,9 +75,9 @@ Tips:
  
  - 9、安装过程中会出现 `💡正在配置组件` 的cmd窗口，不用管，等待它自动完成，完成后点击完成即可。
 
- - 10、打开 https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main 网站，找到v1-5-pruned-emaonly.safetensors并下载，下载完后把模型文件放到 根目录\models\Stable-diffusion里。
+ - 10、打开 [🔗stable-diffusion-v1-5模型](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main) ，找到 `v1-5-pruned-emaonly.safetensors` 模型文件并下载，下载完后把模型文件放到 根目录\models\Stable-diffusion 里。
 
- - 11、或直接在绘世启动器点击 [一键启动] ，在启动器里自动下载v1-5-pruned-emaonly.safetensors。(我这里启动器下载的速度比较慢，我就用第10步的方法下载的，反正两种方法哪个快用哪个。)
+ - 11、或直接在绘世启动器点击 [一键启动] ，在启动器里自动下载 v1-5-pruned-emaonly.safetensors。(我这里启动器下载的速度比较慢，我就用第10步的方法下载的，反正两种方法哪个快用哪个。)
 
 
 #### ⭐运行WebUI
@@ -113,37 +113,3 @@ Tips:
  - 2、我们现在就在正向关键词里输入1car，然后点击右边的生成，尝试生成你的第一张图。
 
  - 3、具体如何使用，请善用搜索功能，去查教程。
-
-#### ⭐安装模型
-
- - 1、我们刚刚下载了一个叫v1-5-pruned-emaonly.safetensors的模型，这个是stable diffusion的官方模型，按照我的部署方法，不安装这个模型，绘世启动器就无法启动WebUI，不过想必光用这个模型是没意思的。
-
- - 2、认识模型网站https://civitai.com/ ,几乎所有的模型都可以在这里找到，可以在里面挑选一个自己喜欢的模型。
-
- - 3、这里我们选https://civitai.com/models/43331/majicmix-realistic ,这个模型majicMIX realistic 麦橘写实。点击右边的Download，然后把下载的模型文件放到根目录\models\Stable-diffusion里。
-
-#### ⭐关键词
-
- - 1、
-
-
-
- - 1、
-
-#### ⭐使用Lora
-
- - 1、
-
-#### ⭐使用超网格
-
- - 1、
-
-#### ⭐尝试制作一个视频
-
- - 1、
-
-#### ⭐训练Lora
-
- - 1、
-
-#### ⭐
