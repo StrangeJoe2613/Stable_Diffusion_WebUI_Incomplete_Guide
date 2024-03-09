@@ -9,7 +9,7 @@
 
 <div align="center">
   
-| [简体中文](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide) | [英文](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/blob/main/README.en_US.md) | [变更日志]() |
+| [简体中文](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide) | [English](https://github.com/StrangeJoe2613/Stable_Diffusion_WebUI_Incomplete_Guide/blob/main/README.en_US.md) | [变更日志]() |
 </div>
 
 <p align="center">
